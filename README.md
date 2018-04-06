@@ -1,5 +1,5 @@
 
-# Assignment 2
+# Automl
 
 ## Instructions 
 
